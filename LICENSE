@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 Lili Salinas
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Legal Notices
+
+This project contains educational and research material about cybersecurity.
+
+**DISCLAIMER:** 
+- This material is for educational purposes only
+- Users are responsible for complying with all applicable laws
+- Unauthorized access to computer systems is illegal
+- The authors are not liable for misuse of this information
+- Always obtain proper authorization before security testing
+
+**RESPONSIBLE DISCLOSURE:**
+- Report vulnerabilities privately and responsibly
+- Do not access systems without authorization
+- Do not modify or delete data without permission
+- Coordinate disclosure with affected parties
