@@ -92,4 +92,4 @@ Si eres profesional de ciberseguridad y quieres colaborar o asesorar este proyec
 
 **Última actualización:** Julio 2026
 
-*Esta es una investigación seria sobre seguridad cibernética. Todos los hechos documentados han sido reportados a autoridades competentes.*
+*Esta es una investigación seria sobre seguridad cibernética. Todos los hechos documentados han sido reportados a autoridades competentes.
