@@ -1,6 +1,6 @@
 5e0ac4c6a6d77d3663e6e2f3613ae07a0761f290#  Investigación: Vulnerabilidades de Seguridad Cibernética
 
-## Propósito del Proyecto
+# Propósito del Proyecto
 
 Este proyecto documenta una investigación sobre vulnerabilidades de seguridad cibernética, incluyendo ataques de malware avanzado, acceso no autorizado a cuentas de correo, y compromisos de sistemas bancarios.
 
